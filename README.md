@@ -10,9 +10,9 @@ This is a Python-based Text-to-Speech (TTS) application that leverages Amazon Po
 
 ## Prerequisites
 
-- Python 3.x
-- AWS Account with Amazon Polly enabled
-- AWS CLI configured with a profile (`boto3_user`) that has access to Polly
+- Python 3.x ![Python](https://img.shields.io/badge/Python-3.x-blue)
+- AWS Account with Amazon Polly enabled ![AWS](https://img.shields.io/badge/AWS-Polly-orange)
+- AWS CLI configured with a profile (`boto3_user`) that has access to Polly ![AWS CLI](https://img.shields.io/badge/AWS%20CLI-Configured-brightgreen)
 
 ## Installation
 
